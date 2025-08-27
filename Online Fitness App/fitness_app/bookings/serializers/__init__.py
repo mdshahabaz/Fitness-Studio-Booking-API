@@ -1,0 +1,3 @@
+from .instructor_serializer import InstructorSerializer
+from .fitness_class_serializer import FitnessClassSerializer, CreateFitnessClassSerializer
+from .booking_serializer import BookingSerializer, CreateBookingSerializer
